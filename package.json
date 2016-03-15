@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "test": "grunt test"
   },
   "dependencies": {
     "body-parser": "~1.13.2",
